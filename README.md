@@ -1,3 +1,5 @@
-Test
-Hello
-World
+vilka
+lojka
+stol
+computer
+printer
